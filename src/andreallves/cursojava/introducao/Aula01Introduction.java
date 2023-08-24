@@ -5,7 +5,7 @@ package andreallves.cursojava.introducao;
  * things.
  */
 
-public class OlaMundo {
+public class Aula01 {
     public static void main(String[] args) {
         // Adding comments one line
         /*
