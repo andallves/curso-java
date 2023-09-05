@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c6c86ea-1925-406e-876b-fc75a4bd9286" name="Changes" comment="Class about repeting structures">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+    <list default="true" id="3c6c86ea-1925-406e-876b-fc75a4bd9286" name="Changes" comment="About Arrays">
+      <change afterPath="$PROJECT_DIR$/src/andreallves/cursojava/introducao/Aula07Arrays01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/andreallves/cursojava/introducao/Aula07Arrays02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,56 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "C:/Users/andal/IdeaProjects/curso-java/src/Main.java",
-    "settings.editor.selected.configurable": "actions.on.save"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/andal/IdeaProjects/curso-java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Aula06ExersiceWithBreak">
-    <configuration name="Aula05ConditionalStructures04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introducao.Aula05ConditionalStructures04" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="andreallves.cursojava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula05Exersice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introducao.Aula05Exersice" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="andreallves.cursojava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula06ExersiceFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introducao.Aula06ExersiceFor" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="andreallves.cursojava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.Aula07Arrays02">
     <configuration name="Aula06ExersiceWithBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introducao.Aula06ExersiceWithBreak" />
       <module name="curso-java" />
@@ -109,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula06RepetingStructures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introducao.Aula06RepetingStructures" />
+    <configuration name="Aula07Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introducao.Aula07Arrays01" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
@@ -122,13 +82,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula07Arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introducao.Aula07Arrays02" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="andreallves.cursojava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introducao.examples.PersonName" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="andreallves.cursojava.introducao.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Team" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introducao.examples.Team" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="andreallves.cursojava.introducao.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula07Arrays02" />
+        <item itemvalue="Application.PersonName" />
+        <item itemvalue="Application.Team" />
+        <item itemvalue="Application.Aula07Arrays01" />
         <item itemvalue="Application.Aula06ExersiceWithBreak" />
-        <item itemvalue="Application.Aula06ExersiceFor" />
-        <item itemvalue="Application.Aula06RepetingStructures" />
-        <item itemvalue="Application.Aula05ConditionalStructures04" />
-        <item itemvalue="Application.Aula05Exersice" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +223,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693682673846</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Exersices about repeting structures">
+      <option name="closed" value="true" />
+      <created>1693685173180</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693685173180</updated>
+    </task>
+    <task id="LOCAL-00012" summary="examples">
+      <option name="closed" value="true" />
+      <created>1693692571975</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693692571975</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,7 +298,10 @@
     <MESSAGE value="Exersice using the conditionals" />
     <MESSAGE value="Upadating..." />
     <MESSAGE value="Class about repeting structures" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class about repeting structures" />
+    <MESSAGE value="Exersices about repeting structures" />
+    <MESSAGE value="examples" />
+    <MESSAGE value="About Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="About Arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
