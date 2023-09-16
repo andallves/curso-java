@@ -54,13 +54,39 @@
     "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CarTest">
-    <configuration name="Aula08ArraysMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introducao.Aula08ArraysMultidimensional" />
+  <component name="RunManager" selected="Application.StudentTest01">
+    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introductionmethods.test.CalculatorTest" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="andreallves.cursojava.introducao.*" />
+          <option name="PATTERN" value="andreallves.cursojava.introductionmethods.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introductionmethods.test.CalculatorTest02" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="andreallves.cursojava.introductionmethods.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introductionmethods.test.CalculatorTest03" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="andreallves.cursojava.introductionmethods.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,38 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.javacore.introductionclasses.test.CarTwo" />
+    <configuration name="StudentTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.introductionmethods.test.StudentTest01" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="andreallves.cursojava.javacore.introductionclasses.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.javacore.introductionclasses.test.StudentTest" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="andreallves.cursojava.javacore.introductionclasses.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TeacherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="andreallves.cursojava.javacore.introductionclasses.test.TeacherTest" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="andreallves.cursojava.javacore.introductionclasses.test.*" />
+          <option name="PATTERN" value="andreallves.cursojava.introductionmethods.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentTest01" />
+        <item itemvalue="Application.CalculatorTest03" />
+        <item itemvalue="Application.CalculatorTest02" />
+        <item itemvalue="Application.CalculatorTest" />
         <item itemvalue="Application.CarTest" />
-        <item itemvalue="Application.CarTwo" />
-        <item itemvalue="Application.TeacherTest" />
-        <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.Aula08ArraysMultidimensional" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694524086581</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Example of object oriented">
+      <option name="closed" value="true" />
+      <created>1694532087067</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694532087067</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
